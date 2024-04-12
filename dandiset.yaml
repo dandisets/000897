@@ -41,8 +41,8 @@ assetsSummary:
   - Units
   - SpatialSeries
   - ProcessingModule
-citation: Mental navigation in non-human primates (2024). (Version draft) [Data set].
-  DANDI archive. https://dandiarchive.org/dandiset/000897/draft
+citation: Neupane_Fiete_Jazayeri_Mental navigation_NHP_EntorhinalCortex (2024). (Version
+  draft) [Data set]. DANDI archive. https://dandiarchive.org/dandiset/000897/draft
 contributor:
 - awardNumber: 5 R01 NS 119519-03
   name: National Institutes of Health (NIH)
@@ -60,7 +60,7 @@ license:
 - spdx:CC-BY-4.0
 manifestLocation:
 - https://api.dandiarchive.org/api/dandisets/000897/versions/draft/assets/
-name: Mental navigation in non-human primates
+name: Neupane_Fiete_Jazayeri_Mental navigation_NHP_EntorhinalCortex
 protocol: []
 relatedResource: []
 repository: https://dandiarchive.org
