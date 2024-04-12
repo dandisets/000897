@@ -5,7 +5,7 @@
 "blob":
 "56b80442-5d0d-4e6f-8f07-73d79517520e",
 "created":
-"2024-02-26T21:31:16.776754+00:00",
+"2024-02-26T21:31:16.776754Z",
 "metadata":
 {
 "@context":
@@ -207,7 +207,7 @@
 ]
 },
 "modified":
-"2024-02-26T21:31:16.776810+00:00",
+"2024-02-26T21:31:16.776810Z",
 "path":
 "sub-amadeus/sub-amadeus_ses-08292019-stub_behavior+ecephys.nwb",
 "size":
@@ -219,7 +219,7 @@
 "blob":
 "8b63646a-6d3e-4b48-aa3d-ebe19512cbd1",
 "created":
-"2024-02-26T21:31:06.638531+00:00",
+"2024-02-26T21:31:06.638531Z",
 "metadata":
 {
 "@context":
@@ -391,7 +391,7 @@
 ]
 },
 "modified":
-"2024-02-26T21:31:06.638552+00:00",
+"2024-02-26T21:31:06.638552Z",
 "path":
 "sub-amadeus/sub-amadeus_ses-08292019-stub_ecephys.nwb",
 "size":
@@ -403,7 +403,7 @@
 "blob":
 "0019d92f-89aa-4c16-9677-7d2be1ded18a",
 "created":
-"2024-02-26T21:49:21.706570+00:00",
+"2024-02-26T21:49:21.706570Z",
 "metadata":
 {
 "@context":
@@ -605,7 +605,7 @@
 ]
 },
 "modified":
-"2024-02-26T21:49:21.706584+00:00",
+"2024-02-26T21:49:21.706584Z",
 "path":
 "sub-amadeus/sub-amadeus_ses-08292019_behavior+ecephys.nwb",
 "size":
@@ -617,7 +617,7 @@
 "blob":
 "4595cd88-ce2a-4de6-98ab-3f32caa85c4b",
 "created":
-"2024-02-26T21:50:59.519981+00:00",
+"2024-02-26T21:50:59.519981Z",
 "metadata":
 {
 "@context":
@@ -789,7 +789,7 @@
 ]
 },
 "modified":
-"2024-02-26T21:50:59.519998+00:00",
+"2024-02-26T21:50:59.519998Z",
 "path":
 "sub-amadeus/sub-amadeus_ses-08292019_ecephys.nwb",
 "size":

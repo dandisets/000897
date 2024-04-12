@@ -2,6 +2,7 @@
 # It can be edited online at https://dandiarchive.org/dandiset/000897
 # and obtained from the dandiarchive.
 '@context': https://raw.githubusercontent.com/dandi/schema/master/releases/0.6.4/context.json
+about: []
 access:
 - schemaKey: AccessRequirements
   status: dandi:EmbargoedAccess
@@ -26,8 +27,8 @@ assetsSummary:
     schemaKey: MeasurementTechniqueType
   - name: analytical technique
     schemaKey: MeasurementTechniqueType
-  numberOfBytes: 598648124
-  numberOfFiles: 3
+  numberOfBytes: 14539471447
+  numberOfFiles: 4
   numberOfSubjects: 1
   schemaKey: AssetsSummary
   species:
@@ -40,8 +41,8 @@ assetsSummary:
   - Units
   - SpatialSeries
   - ProcessingModule
-citation: Mental navigation primate (2024). (Version draft) [Data set]. DANDI archive.
-  https://dandiarchive.org/dandiset/000897/draft
+citation: Mental navigation in non-human primates (2024). (Version draft) [Data set].
+  DANDI archive. https://dandiarchive.org/dandiset/000897/draft
 contributor:
 - awardNumber: 5 R01 NS 119519-03
   name: National Institutes of Health (NIH)
@@ -50,13 +51,23 @@ contributor:
   schemaKey: Organization
 dateCreated: '2024-02-26T20:53:07.949077+00:00'
 description: Entorhinal cortex
+ethicsApproval: []
 id: DANDI:000897/draft
 identifier: DANDI:000897
+keywords:
+- 'entorhinal cortex, cognitive map, mental navigation, '
+license:
+- spdx:CC-BY-4.0
 manifestLocation:
 - https://api.dandiarchive.org/api/dandisets/000897/versions/draft/assets/
-name: Mental navigation primate
+name: Mental navigation in non-human primates
+protocol: []
+relatedResource: []
 repository: https://dandiarchive.org
 schemaKey: Dandiset
 schemaVersion: 0.6.4
+studyTarget:
+- Role of the hippocampal formation in mental navigation over cognitive maps
 url: https://dandiarchive.org/dandiset/000897/draft
 version: draft
+wasGeneratedBy: []
