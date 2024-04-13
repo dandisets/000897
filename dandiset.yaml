@@ -21,14 +21,14 @@ assetsSummary:
     schemaKey: MeasurementTechniqueType
   - name: surgical technique
     schemaKey: MeasurementTechniqueType
-  - name: spike sorting technique
-    schemaKey: MeasurementTechniqueType
   - name: behavioral technique
+    schemaKey: MeasurementTechniqueType
+  - name: spike sorting technique
     schemaKey: MeasurementTechniqueType
   - name: analytical technique
     schemaKey: MeasurementTechniqueType
-  numberOfBytes: 14539471447
-  numberOfFiles: 4
+  numberOfBytes: 14266267704
+  numberOfFiles: 2
   numberOfSubjects: 1
   schemaKey: AssetsSummary
   species:
