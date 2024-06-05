@@ -42,7 +42,8 @@ assetsSummary:
   - ProcessingModule
   - ElectricalSeries
 citation: Neupane, Sujaya; Fiete, Ila; Jazayeri, Mehrdad (2024) Neupane_Fiete_Jazayeri_Mental
-  navigation_NHP_EntorhinalCortex (Version draft) [Data set]. DANDI archive. https://dandiarchive.org/dandiset/000897/draft
+  navigation_NHP_EntorhinalCortex (Version 0.240605.1710) [Data set]. DANDI archive.
+  https://doi.org/10.48324/dandi.000897/0.240605.1710
 contributor:
 - email: sujayanyaupane@gmail.com
   identifier: 0000-0002-0052-3122
@@ -86,6 +87,7 @@ datePublished: '2024-06-05T17:10:33.732071+00:00'
 description: 'The dataset contains electrophysiology data recorded from the entorhinal
   cortex of two NHPs performing a mental navigation task. The recording probes used
   were V-probe with 32 channels or 64 channels, manufactured by Plexon Inc. '
+doi: 10.48324/dandi.000897/0.240605.1710
 ethicsApproval:
 - contactPoint:
     email: cacpo@mit.edu
@@ -93,14 +95,14 @@ ethicsApproval:
     url: https://cac.mit.edu/
   identifier: '2203000084'
   schemaKey: EthicsApproval
-id: DANDI:000897/draft
+id: DANDI:000897/0.240605.1710
 identifier: DANDI:000897
 keywords:
 - 'entorhinal cortex, cognitive map, mental navigation, '
 license:
 - spdx:CC-BY-4.0
 manifestLocation:
-- https://api.dandiarchive.org/api/dandisets/000897/versions/draft/assets/
+- https://dandiarchive.s3.amazonaws.com/dandisets/000897/0.240605.1710/assets.yaml
 name: Neupane_Fiete_Jazayeri_Mental navigation_NHP_EntorhinalCortex
 protocol: []
 publishedBy:
@@ -121,6 +123,6 @@ schemaKey: Dandiset
 schemaVersion: 0.6.4
 studyTarget:
 - Mental navigation in the primate entorhinal cortex
-url: https://dandiarchive.org/dandiset/000897/draft
-version: draft
+url: https://dandiarchive.org/dandiset/000897/0.240605.1710
+version: 0.240605.1710
 wasGeneratedBy: []
